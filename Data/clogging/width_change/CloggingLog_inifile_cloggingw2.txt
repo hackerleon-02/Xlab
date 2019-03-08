@@ -1,0 +1,26 @@
+#inifile: /Users/administer/Bachelor/Bachelor/Data/clogging/width_change/inifile_cloggingw2.5.xml
+#Timestep: 0.02 (s)
+#Waiting time: 0 (s)
+#Parallel: 1 (1:parallel,0:unparallel)
+#ID	time(s)	amount
+51	3.3	1
+155	9.46	2
+163	15.58	3
+12	15.6	4
+14	16.9	5
+265	17.32	6
+20	23.36	7
+179	31.8	8
+180	32.92	9
+232	33.96	10
+233	34.16	11
+133	35.88	12
+234	37.48	13
+136	38.06	14
+385	38.26	15
+236	39.32	16
+338	40.18	17
+143	44.7	18
+44	47.06	19
+396	47.84	20
+399	50.72	21
